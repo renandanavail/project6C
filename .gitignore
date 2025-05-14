@@ -1,0 +1,29 @@
+# Flutter/Dart
+.dart_tool/
+.build/
+.idea/
+.packages
+pubspec.lock
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+
+# iOS
+ios/.generated/
+ios/Pods/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+
+# macOS
+macos/.generated/
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.framework
+
+# Windows
+windows/.vs/
+windows/flutter/ephemeral/
+
+# VS Code
+.vscode/
